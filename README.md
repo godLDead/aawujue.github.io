@@ -1,2 +1,3 @@
-# aawujue.github.io
-小白的博客
+# GodL.github.io
+first repository ,in 2015
+ssss
